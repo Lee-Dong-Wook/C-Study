@@ -1,0 +1,4 @@
+﻿  typeConversion.cpp
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter4_4.5\typeconversion.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter4_4.5\typeconversion.cpp(30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Chapter4_4.5.vcxproj -> C:\Users\Raynor\Documents\GitHub\Cpp Studying\C++EssencialGrammer\Debug\Chapter4_4.5.exe
