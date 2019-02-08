@@ -89,13 +89,6 @@ int main()
 	//item2를 가지고 있고 item4를 가지고 있지 않을 때
 	if ((item_flag & opt2) && !(item_flag & opt4)) {
 		
-		//item2를 잃어버리고 item4를 얻게 한다. 
-		//상태변환은 ^연산을 이용한다. 
-		
-		//이를 한줄로 줄일 수 있다. 
-		/*item_flag ^= opt2;
-		item_flag ^= opt4; */
-
 		item_flag ^= (opt2 | opt4);
 		cout << " Item2를 잃었다. Item4를 얻었다." << bitset<8>(item_flag) << endl << endl;
 	}
@@ -113,7 +106,6 @@ int main()
 	cout <<"     Blue : " << std::bitset<32>(blue_mask) << endl << endl;
 
 	unsigned int pixel_color = 0xDAA520;
-
 	cout << " pixel_color : " << std::bitset<32>(pixel_color) << endl << endl;
 
 	 unsigned char blue = pixel_color & blue_mask;
