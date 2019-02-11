@@ -1,0 +1,5 @@
+﻿  TypeAliases.cpp
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter4_4.9\typealiases.cpp(18): warning C4101: 'home2school': unreferenced local variable
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter4_4.9\typealiases.cpp(17): warning C4101: 'home2work': unreferenced local variable
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter4_4.9\typealiases.cpp(16): warning C4101: 'my_distance': unreferenced local variable
+  Chapter4_4.9.vcxproj -> C:\Users\Raynor\Documents\GitHub\Cpp Studying\C++EssencialGrammer\Debug\Chapter4_4.9.exe
