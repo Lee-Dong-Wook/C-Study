@@ -1,0 +1,4 @@
+﻿  c_styleArray.cpp
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter6_6.6\c_stylearray.cpp(50): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Chapter6_6.6.vcxproj -> C:\Users\Raynor\Documents\GitHub\Cpp Studying\C++EssencialGrammer\Debug\Chapter6_6.6.exe
