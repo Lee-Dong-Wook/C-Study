@@ -1,0 +1,13 @@
+﻿  methodOverloading.cpp
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(37): error C2668: 'print': ambiguous call to overloaded function
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(33): note: could be 'void print(float)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(32): note: or       'void print(unsigned int)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(37): note: while trying to match the argument list '(char)'
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(38): error C2668: 'print': ambiguous call to overloaded function
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(33): note: could be 'void print(float)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(32): note: or       'void print(unsigned int)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(38): note: while trying to match the argument list '(int)'
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(39): error C2668: 'print': ambiguous call to overloaded function
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(33): note: could be 'void print(float)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(32): note: or       'void print(unsigned int)'
+  c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.7\methodoverloading.cpp(39): note: while trying to match the argument list '(double)'
