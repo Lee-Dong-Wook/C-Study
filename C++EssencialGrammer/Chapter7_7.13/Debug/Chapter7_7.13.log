@@ -1,0 +1,3 @@
+﻿  Chapter7_7.13.cpp
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter7_7.13\chapter7_7.13.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\Raynor\Documents\GitHub\Cpp Studying\C++EssencialGrammer\Debug\Chapter7_7.13.exe for writing
