@@ -1,0 +1,6 @@
+﻿  Chapter9_9.5.cpp
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+c:\users\raynor\documents\github\cpp studying\c++essencialgrammer\chapter9_9.5\chapter9_9.5.cpp(36): warning C4172: returning address of local variable or temporary: temp
+  Finished generating code
+  Chapter9_9.5.vcxproj -> C:\Users\Raynor\Documents\GitHub\Cpp Studying\C++EssencialGrammer\Release\Chapter9_9.5.exe
